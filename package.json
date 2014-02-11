@@ -11,11 +11,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanong/component-process.js.git"
+    "url": "https://github.com/djanowski/component-process.js"
   },
   "bugs": {
     "mail": "me@jongleberry.com",
-    "url": "https://github.com/jonathanong/component-process.js/issues"
+    "url": "https://github.com/djanowski/component-process.js/issues"
   },
   "dependencies": {
     "debug": "*",
